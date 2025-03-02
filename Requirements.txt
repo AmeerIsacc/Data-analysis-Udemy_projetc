@@ -1,0 +1,44 @@
+Data Analysis
+
+# for  run use code : jupyter notebook
+
+###############
+Udemy Project Using Python numpy,seaborn and matplotlib
+
+Requirements:-
+
+1\Subject: 
+- What is the distribution of subject?
+- How many courses per subject?
+- Distribution of subjects?
+- Which subject is the most popluer?
+
+2\Subscribers:
+- Which course have the highest number of subscribers?
+- Average number of subscribers?
+- Number of subscribers per subject?
+
+3\Levels: 
+- How many levels do we have?
+- What is the distribution of courses per level?
+- Which subject have the highest levels?
+- How many subscribers per level?
+- How many courses per levels?
+
+4\Price:
+- What is the average price of a course?
+- What is the min/max price?
+- How many dose udemy earn?
+- The most profitable courses?
+
+5\Lectures:
+- Lectures * Reviews?
+- Plot of lectures per level per subject?
+
+6\Published timestamps:
+- Number of courses per year?
+- Which year has the highest number of courses?
+- What is the trend of courses per year?
+
+7\Question on course title:
+- What is longest/shortest course title?
